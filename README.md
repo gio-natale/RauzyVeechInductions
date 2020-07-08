@@ -1,0 +1,2 @@
+# RauzyVeechInductions
+Calculates the Minkowski question-mark function and generateSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
